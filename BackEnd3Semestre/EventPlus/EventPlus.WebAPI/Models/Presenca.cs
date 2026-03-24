@@ -24,5 +24,6 @@ public partial class Presenca
 
     [ForeignKey("IdUsuario")]
     [InverseProperty("Presencas")]
+
     public virtual Usuario? IdUsuarioNavigation { get; set; }
 }
