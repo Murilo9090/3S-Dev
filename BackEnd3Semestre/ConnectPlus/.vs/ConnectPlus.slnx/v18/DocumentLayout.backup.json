@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\ConnectPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CAB4A1-51FD-4D37-9E77-9EF6C3122451}|ConnectPlus.csproj|c:\\users\\47649489825\\downloads\\3s-dev\\backend3semestre\\connectplus\\controller\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CAB4A1-51FD-4D37-9E77-9EF6C3122451}|ConnectPlus.csproj|solutionrelative:controller\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CAB4A1-51FD-4D37-9E77-9EF6C3122451}|ConnectPlus.csproj|c:\\users\\47649489825\\downloads\\3s-dev\\backend3semestre\\connectplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CAB4A1-51FD-4D37-9E77-9EF6C3122451}|ConnectPlus.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CAB4A1-51FD-4D37-9E77-9EF6C3122451}|ConnectPlus.csproj|c:\\users\\47649489825\\downloads\\3s-dev\\backend3semestre\\connectplus\\bdcontextconnect\\connectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CAB4A1-51FD-4D37-9E77-9EF6C3122451}|ConnectPlus.csproj|solutionrelative:bdcontextconnect\\connectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CAB4A1-51FD-4D37-9E77-9EF6C3122451}|ConnectPlus.csproj|c:\\users\\47649489825\\downloads\\3s-dev\\backend3semestre\\connectplus\\repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CAB4A1-51FD-4D37-9E77-9EF6C3122451}|ConnectPlus.csproj|solutionrelative:repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CAB4A1-51FD-4D37-9E77-9EF6C3122451}|ConnectPlus.csproj|c:\\users\\47649489825\\downloads\\3s-dev\\backend3semestre\\connectplus\\interfaces\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CAB4A1-51FD-4D37-9E77-9EF6C3122451}|ConnectPlus.csproj|solutionrelative:interfaces\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\ConnectPlus\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\ConnectPlus\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T14:27:08.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectContext.cs",
+              "DocumentMoniker": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\ConnectPlus\\BdContextConnect\\ConnectContext.cs",
+              "RelativeDocumentMoniker": "BdContextConnect\\ConnectContext.cs",
+              "ToolTip": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\ConnectPlus\\BdContextConnect\\ConnectContext.cs",
+              "RelativeToolTip": "BdContextConnect\\ConnectContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T14:26:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\ConnectPlus\\Repositories\\ContatoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ContatoRepository.cs",
+              "ToolTip": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\ConnectPlus\\Repositories\\ContatoRepository.cs",
+              "RelativeToolTip": "Repositories\\ContatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T14:26:40.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\ConnectPlus\\Interfaces\\IContatoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IContatoRepository.cs",
+              "ToolTip": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\ConnectPlus\\Interfaces\\IContatoRepository.cs",
+              "RelativeToolTip": "Interfaces\\IContatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T14:25:53.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\ConnectPlus\\Controller\\ContatoController.cs",
+              "RelativeDocumentMoniker": "Controller\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\ConnectPlus\\Controller\\ContatoController.cs",
+              "RelativeToolTip": "Controller\\ContatoController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowKEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T14:15:13.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
