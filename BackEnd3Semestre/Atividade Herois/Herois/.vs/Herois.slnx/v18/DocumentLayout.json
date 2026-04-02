@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\BdContextHerois\\HeroisContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BdContextHerois\\HeroisContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B72606-24F0-4E6B-A9DF-039EB5A5630C}|Herois.csproj|c:\\users\\47649489825\\downloads\\3s-dev\\backend3semestre\\herois\\dto\\heroidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B72606-24F0-4E6B-A9DF-039EB5A5630C}|Herois.csproj|solutionrelative:dto\\heroidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B72606-24F0-4E6B-A9DF-039EB5A5630C}|Herois.csproj|c:\\users\\47649489825\\downloads\\3s-dev\\backend3semestre\\herois\\interfaces\\iequiperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B72606-24F0-4E6B-A9DF-039EB5A5630C}|Herois.csproj|solutionrelative:interfaces\\iequiperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B72606-24F0-4E6B-A9DF-039EB5A5630C}|Herois.csproj|c:\\users\\47649489825\\downloads\\3s-dev\\backend3semestre\\herois\\interfaces\\iheroirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B72606-24F0-4E6B-A9DF-039EB5A5630C}|Herois.csproj|solutionrelative:interfaces\\iheroirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B72606-24F0-4E6B-A9DF-039EB5A5630C}|Herois.csproj|c:\\users\\47649489825\\downloads\\3s-dev\\backend3semestre\\herois\\interfaces\\imissaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B72606-24F0-4E6B-A9DF-039EB5A5630C}|Herois.csproj|solutionrelative:interfaces\\imissaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B72606-24F0-4E6B-A9DF-039EB5A5630C}|Herois.csproj|c:\\users\\47649489825\\downloads\\3s-dev\\backend3semestre\\herois\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B72606-24F0-4E6B-A9DF-039EB5A5630C}|Herois.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:02:17.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMissaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\Interfaces\\IMissaoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMissaoRepository.cs",
+              "ToolTip": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\Interfaces\\IMissaoRepository.cs",
+              "RelativeToolTip": "Interfaces\\IMissaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:01:49.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHeroiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\Interfaces\\IHeroiRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IHeroiRepository.cs",
+              "ToolTip": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\Interfaces\\IHeroiRepository.cs",
+              "RelativeToolTip": "Interfaces\\IHeroiRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:01:18.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEquipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\Interfaces\\IEquipeRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEquipeRepository.cs",
+              "ToolTip": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\Interfaces\\IEquipeRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEquipeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:00:27.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeroiDTO.cs",
+              "DocumentMoniker": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\DTO\\HeroiDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\HeroiDTO.cs",
+              "ToolTip": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\DTO\\HeroiDTO.cs",
+              "RelativeToolTip": "DTO\\HeroiDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:36:22.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeroisContext.cs",
+              "DocumentMoniker": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\BdContextHerois\\HeroisContext.cs",
+              "RelativeDocumentMoniker": "BdContextHerois\\HeroisContext.cs",
+              "ToolTip": "C:\\Users\\47649489825\\Downloads\\3S-Dev\\BackEnd3Semestre\\Herois\\BdContextHerois\\HeroisContext.cs",
+              "RelativeToolTip": "BdContextHerois\\HeroisContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:34:35.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
